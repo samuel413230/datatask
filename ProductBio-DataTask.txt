@@ -1,0 +1,14 @@
+Scope
+
+Purchase orders given to us by organizations are often dirty. Right now we have very manual ways of cleaning up this data and matching it to products within our database. This small project is one potential solution to this problem.
+
+Project - Python text similarity clustering
+
+Research metrics for determining similarities between two strings.
+Research methods of clustering that would work well with text-based data.
+Write a script that parses through the data file and clusters the text into distinct groups.
+The clusters should ideally be of different products with some margin of error, for example consider fuzzy clustering or LDA.
+Visualize your results
+
+Please work in an ipython notebook using Python 3.
+
